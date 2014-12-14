@@ -1,7 +1,7 @@
 # UIkit
 
 UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.
-UIkit是一个可快速开发和强大WEB界面的轻量化，模块化前端框架。
+UIkit 一个轻量级、模块化的前端框架，可快速构建强大的web前端界面
 
 * [Homepage](http://getuikit.com) - Learn more about UIkit
 * [@getuikit](https://twitter.com/getuikit) - Get the latest buzz on Twitter
